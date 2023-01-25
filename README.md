@@ -1,5 +1,5 @@
 # Python_Practice_Problems
 
-Here iam sharing all DSA ALGORITHMS And OOPS AND BASIC PROBLEMS Solutions:-
+All_ABOUT_Python_programming
 
 Softwares used:-Visual Studio Code
