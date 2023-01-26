@@ -5,5 +5,6 @@ Python is an object-oriented programming language that is used for a wide range 
 Learning to program in Python is essential in today’s computing landscape. Object-oriented programming (OOP) allows a programmer to model their algorithms efficiently and make them reusable. Data Structures and Algorithms (DSA) allow a programmer to work with large amounts of data by creating efficient methods of managing and manipulating data. Sorting algorithms are an important part of DSA, as they are used to quickly sort large amounts of data.
 Python is an object-oriented, high-level programming language with dynamic semantics. It is an extremely powerful language that enables developers to create complex applications. This codebase also provides a wide variety of sorting algorithms to ensure that data is organized in the most efficient way possible. With the ability to easily define objects, developers are able to create scalable, maintainable applications with ease.
 
+Here iam sharing all DSA ALGORITHMS And OOPS AND BASIC PROBLEMS Solutions:-
 
 Softwares used:-Visual Studio Code
