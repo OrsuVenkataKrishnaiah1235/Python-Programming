@@ -1,4 +1,4 @@
-                         Here's a Quick Overview of Python that covers some of the basic concepts in the language:
+              Here's a Quick Overview of Python that covers some of the basic concepts in the language:
 
 1.Variables: Variables in Python are defined using the = operator. The data type of a variable is dynamically determined based on the value assigned to it.
 
@@ -16,7 +16,7 @@
 
 8.Input and output: Python provides several ways to read and write data from and to the user, including the input function for reading from the keyboard and the print function for writing to the screen.
 
-                                          Here are the most commonly used data types in Python:
+                           Here are the most commonly used data types in Python:
 
 1.Integer: Represents positive and negative whole numbers, e.g. -1, 0, 1, 2, etc.
 
@@ -35,8 +35,7 @@
 8.Set: Represents an unordered collection of unique items, e.g. {1, 2, 3, 4, 5}.
 
 
-
-                                          Here's a brief overview of OOP concepts in Python:
+                           Here's a brief overview of OOP concepts in Python:
 
 1.Class: A class is a blueprint for creating objects, which are instances of the class. Classes contain attributes and methods that describe the behavior of objects.
 
@@ -69,7 +68,7 @@ In Python, there are several built-in data structures that you can use to store 
 
 7.Stacks: A stack is a linear data structure that follows the Last In First Out (LIFO) principle, e.g. elements added last are removed first.
 
-                                  Here are some of the most commonly used algorithms in Python:
+                           Here are some of the most commonly used algorithms in Python:
 
 1.Sorting algorithms: These algorithms are used to sort data in a particular order, such as ascending or descending order. Some popular sorting algorithms in Python include Bubble Sort, Insertion Sort, Selection Sort, Quick Sort, Merge Sort, and Heap Sort.
 
