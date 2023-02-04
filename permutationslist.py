@@ -2,6 +2,8 @@
 import itertools
 l=[1,2,3]
 permutations=list(itertools.permutations(l))
+
+
 for i in permutations:
 	print(i)
 '''
